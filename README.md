@@ -1,4 +1,4 @@
 ## Python-Projects
 
-**This repository consists of Python Projects code.**
+**This repository consists of all the code for Python Mini Projects.**
 
