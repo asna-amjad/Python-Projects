@@ -1,4 +1,4 @@
-### Caesar Cipher Project
+# Caesar Cipher Project
 
 ### Concepts Practiced
 	•	Functions and function parameters
