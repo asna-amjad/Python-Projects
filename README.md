@@ -490,6 +490,17 @@ An interactive Python game built using Turtle Graphics and Pandas. The game read
 
 ## Day 19 - NATO Alphabet Project ##
 
+### Concepts Practiced:
+
+* List and dictionary comprehension
+* Pandas library for data manipulation
+* CSV file reading and processing
+* Creating Lists using List Comprehension
+* Iteration over Pandas DataFrame
+* Data filtering and validation logic
+* Converting text into phonetic representations
+
+
 
 <!--=================-->
 ### Goal
