@@ -2,8 +2,6 @@
 
 **This repository contains all my Python projects.**
 
-This repository contains my Python projects that I’m building while learning.. 
-
 It includes projects I’m building as part of my learning journey, starting from the basics and progressing to intermediate and advanced concepts while continuously improving my skills.
 
 
