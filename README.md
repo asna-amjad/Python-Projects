@@ -18,9 +18,9 @@ A simple project that creates a fun band name based on user input.
 * String concatenation
 
 **Example:**
-* City: Delhi
-* Pet: Bruno
-* Band Name: Delhi Bruno
+* City: Dallas
+* Pet: Cowboy
+* Band Name: Dallas Cowboy
 
 
 
@@ -35,10 +35,10 @@ This project calculates how much each person should pay after splitting the bill
 * Basic calculations
 
 **Example:**
-* Bill: 1000
+* Bill: $68
 * Tip: 10%
 * People: 2
-* Each person pays: 550
+* Each person pays: $37.40
 
 
 # Day 3 - Treasure Island Game
@@ -200,11 +200,11 @@ In this project, multiple users can enter their names and bid amounts. Each bid 
 
 **Example:**
 
-* User 1: Alice → Bid: 300
-* User 2: Bob → Bid: 500
-* User 3: Charlie → Bid: 450
+* User 1: Alice → Bid: $300
+* User 2: Bob → Bid: $500
+* User 3: Charlie → Bid: $450
 
-**Winner: Bob with a bid of 500**
+**Winner: Bob with a bid of $500**
 
 **What I learned:**
 
@@ -384,7 +384,3 @@ In this project, the program acts like a coffee machine. The user can choose a d
 # What’s next?
 
 I’ll keep building and adding new projects as I continue learning and improving.
-
-# Author
-
-Divya Upadhyay.
