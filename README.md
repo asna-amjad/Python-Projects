@@ -373,7 +373,7 @@ In this project, the program acts like a coffee machine. The user can choose a d
 * Structuring larger programs using functions
 * Updating and tracking system resources dynamically
 
-# Goal
+### Goal
 
 * Improve my Python skills
 * Practice problem solving
@@ -381,6 +381,6 @@ In this project, the program acts like a coffee machine. The user can choose a d
 
 
 
-# What’s next?
+### What’s next?
 
 I’ll keep building and adding new projects as I continue learning and improving.
