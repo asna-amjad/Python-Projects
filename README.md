@@ -246,7 +246,7 @@ In this project, the user inputs two numbers and selects an operation (+, -, *, 
 * Creating continuous programs using loops
 * Improving user experience with repeated calculations
 
-## Day 11 - Blackjack Game##
+## Day 11 - Blackjack Game ##
 
 A simplified version of the classic Blackjack card game where the player competes against the computer (dealer) to get a score as close to 21 as possible without going over.
 
@@ -276,7 +276,7 @@ In this project, the player and the computer are both dealt random cards. The pl
 * Using randomness to simulate card dealing
 * Structuring code using functions for better readability
 
-## Day 12 - Number Guessing Game##
+## Day 12 - Number Guessing Game ##
 
 A fun game where the computer randomly selects a number, and the player has to guess it within a limited number of attempts.
 
