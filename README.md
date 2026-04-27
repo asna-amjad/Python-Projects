@@ -373,12 +373,130 @@ In this project, the program acts like a coffee machine. The user can choose a d
 * Structuring larger programs using functions
 * Updating and tracking system resources dynamically
 
+
+## Day 16 - Snake Game Project ##
+
+A classic Snake Game built using Python where the player controls a snake to eat food, grow longer, and avoid collisions with walls or itself.
+
+**Concepts uswd:** 
+
+* Object-Oriented Programming (OOP)
+* Classes and Objects
+* Loops (game loop)
+* Conditional statements (if/else)
+* Event handling (keyboard input)
+* Collision detection
+* Modules (turtle / pygame)
+
+### Description
+
+In this project, the snake moves around the screen and eats food to grow longer. Each time the snake eats food, the score increases. The game ends if the snake collides with the wall or itself. The game uses continuous loops and real-time user input to create an interactive experience.
+
+### Features
+
+* Smooth snake movement
+* Food spawning at random locations
+* Score tracking system
+* Collision detection (wall and self)
+* Game over screen
+
+### Example:
+
+* Snake eats food → Score: 1
+* Snake grows longer → Speed increases
+* Snake hits wall → Game Over 
+
+### What I learned:
+
+* How to build a complete game using OOP
+* Managing real-time game logic
+* Handling user input events
+* Working with graphics libraries like turtle/pygame
+* Improving code structure with multiple classes
+
+
+## Day 17 - The Pong Game Project ##
+
+**This is a classic Pong Game built using Python. It is a two-player arcade-style game where players control paddles to hit a moving ball and score points.**
+**A classic Pong Game built using Python where two paddles hit a moving ball to score points. The goal is to prevent the ball from passing your paddle while trying to score against the opponent.**
+
+### Concepts used:
+
+* Object-Oriented Programming (OOP)
+* Classes and Objects
+* Loops (game loop)
+* Conditional statements (if/else)
+* Event handling (keyboard input)
+* Collision detection
+* Modules (turtle / pygame)
+* Description:
+
+## Description
+**In this project, two paddles are placed on opposite sides of the screen, and a ball moves between them. Players control the paddles to hit the ball back and forth. Each time a player misses the ball, the opponent scores a point.**
+
+The game uses real-time input, continuous loops, and collision detection to create an interactive experience.
+
+### Features
+
+* Two-player paddle controls
+* Smooth ball movement
+* Collision detection with paddles and walls
+* Score tracking system
+* Game loop for continuous gameplay
+
+
+### Example:
+
+* Ball hits paddle → Bounces back
+* Player misses ball → Opponent scores 
+* Score updates → Game continues
+
+### What I learned:
+
+* Building interactive games using Python
+* Implementing collision detection logic
+* Managing real-time user input
+* Structuring code using OOP concepts
+* Creating smooth game flow using loops
+
+## Day 18 - US Stated Name Game ##
+
+An interactive Python game built using Turtle Graphics and Pandas. The game reads U.S. state data from a CSV file and allows users to guess state names. Correct guesses are displayed on the map using coordinates.
+
+### Game Preview
+![Game Screenshot](image.png)
+
+### Features
+
+* Interactive map-based quiz game
+* Uses Pandas for data handling
+* Displays correct answers on map
+* Tracks guessed states
+* Beginner friendly Python project
+
+### Tech Stack
+
+* Python
+* Pandas
+* Turtle Graphics
+
+### What I Learned 
+
+* Working with CSV using Pandas
+* Python loops and conditions
+* Turtle graphics basics
+* Game logic building
+
+
+## Day 19 - NATO Alphabet Project ##
+
+
+<!--=================-->
 ### Goal
 
 * Improve my Python skills
 * Practice problem solving
 * Build projects step by step
-
 
 
 ### What’s next?
