@@ -307,7 +307,7 @@ In this project, the computer chooses a random number within a given range (e.g.
 * Providing user feedback for better interaction
 
 
-## Day 14 - Higher Lower Game##
+## Day 14 - Higher Lower Game ##
 
 A fun game where the player guesses which option has more followers based on given data. The goal is to keep guessing correctly and achieve the highest score.
 
