@@ -123,7 +123,7 @@ In this project, the user is asked how many letters, symbols, and numbers they w
 * Building a real-world useful utility
 * Improving logic for better security (shuffling password)
 
-## Day 7 - Hangman Game ##
+## Day 7 - Hangman Project ##
 
 A classic word-guessing game where the player tries to guess a hidden word letter by letter before running out of attempts.
 
