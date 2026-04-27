@@ -7,7 +7,9 @@ It includes projects I’m building as part of my learning journey, starting fro
 
 # Projects
 
-# Day 1 - Band Name Generator
+<!--================================================================================================-->
+
+## Day 1 - Band Name Generator
 
 A simple project that creates a fun band name based on user input.
 
@@ -22,9 +24,9 @@ A simple project that creates a fun band name based on user input.
 * Pet: Cowboy
 * Band Name: Dallas Cowboy
 
+<!--================================================================================================-->
 
-
-# Day 2 - Tip Calculator
+## Day 2 - Tip Calculator
 
 This project calculates how much each person should pay after splitting the bill and adding a tip.
 
@@ -40,8 +42,9 @@ This project calculates how much each person should pay after splitting the bill
 * People: 2
 * Each person pays: $37.40
 
+<!--================================================================================================-->
 
-# Day 3 - Treasure Island Game
+## Day 3 - Treasure Island Game
 
 A fun text-based adventure game where the player makes decisions to find a hidden treasure. Each choice leads to a different outcome, making the game interactive and engaging.
 
@@ -71,7 +74,9 @@ What I learned:
 •Writing interactive command-line programs
 •Importance of case handling using .lower()
 
-# Day 4 - Rock Paper Scissors Game
+<!--================================================================================================-->
+
+## Day 4 - Rock Paper Scissors Game
 
 A simple and fun game where the user plays Rock, Paper, Scissors against the computer. The computer randomly selects an option, and the winner is decided based on the game rules.
 
@@ -123,6 +128,32 @@ In this project, the user is asked how many letters, symbols, and numbers they w
 * Building a real-world useful utility
 * Improving logic for better security (shuffling password)
 
+<!--================================================================================================-->
+
+## Day 6 - Escaping the Maze ##
+
+A problem-solving project that teaches how to navigate a maze using basic control flow logic and movement functions.
+
+### Concepts used:
+
+* While loops
+* Conditional statements (if/elif/else)
+* Functions
+
+### Description:
+
+In this project, the program guides a robot through a maze using simple movement rules. The robot decides its next move based on whether the path in front or right side is clear. If neither path is available, it turns left to find a new direction.
+The logic continues until the robot reaches the goal, demonstrating how basic rules can be used to solve complex navigation problems.
+
+### What I learned
+
+* How to build a simple maze-solving algorithm
+* Using while loops for continuous execution
+* Applying condition-based decision making
+* Breaking complex problems into simple rules
+
+<!--================================================================================================-->
+
 ## Day 7 - Hangman Project ##
 
 A classic word-guessing game where the player tries to guess a hidden word letter by letter before running out of attempts.
@@ -147,7 +178,9 @@ In this project, the computer randomly selects a word from a predefined list. Th
 * Guess: z → Wrong
 * Lives left: 5
 ...
-* Result: You Win 🙂 / Game Over 
+* Result: You Win 🙂 / Game Over
+
+<!--================================================================================================-->
 
 ## Day 8 - Caesar Cipher ##
 
@@ -182,6 +215,8 @@ In this project, the user can choose to encrypt or decrypt a message. The progra
 * Handling edge cases (like wrapping around alphabets)
 * Improving program structure and readability
 
+<!--================================================================================================-->
+
 ## Day 9 - Secret Auction Program ##
 
 A program that simulates a secret auction where multiple users can place bids, and the highest bidder wins.
@@ -212,6 +247,8 @@ In this project, multiple users can enter their names and bid amounts. Each bid 
 * Looping through data to find maximum values
 * Building interactive programs with multiple users
 * Writing functions for cleaner and reusable code
+
+<!--================================================================================================-->
 
 ## Day 10 - Calculator Program ##
 
@@ -246,6 +283,8 @@ In this project, the user inputs two numbers and selects an operation (+, -, *, 
 * Creating continuous programs using loops
 * Improving user experience with repeated calculations
 
+<!--================================================================================================-->
+
 ## Day 11 - Blackjack Game ##
 
 A simplified version of the classic Blackjack card game where the player competes against the computer (dealer) to get a score as close to 21 as possible without going over.
@@ -275,6 +314,8 @@ In this project, the player and the computer are both dealt random cards. The pl
 * Managing multiple conditions and edge cases
 * Using randomness to simulate card dealing
 * Structuring code using functions for better readability
+
+<!--================================================================================================-->
 
 ## Day 12 - Number Guessing Game ##
 
@@ -306,6 +347,7 @@ In this project, the computer chooses a random number within a given range (e.g.
 * Implementing game logic with conditions
 * Providing user feedback for better interaction
 
+<!--================================================================================================-->
 
 ## Day 14 - Higher Lower Game ##
 
@@ -341,6 +383,8 @@ Score: 1
 * Using randomness for dynamic gameplay
 * Improving decision-making logic in programs
 
+<!--================================================================================================-->
+
 ## Day 15 - Coffee Machine Program ##
 
 A simulation of a coffee machine where users can choose different drinks, insert coins, and receive their order if resources are sufficient.
@@ -373,6 +417,7 @@ In this project, the program acts like a coffee machine. The user can choose a d
 * Structuring larger programs using functions
 * Updating and tracking system resources dynamically
 
+<!--================================================================================================-->
 
 ## Day 16 - Snake Game Project ##
 
@@ -414,6 +459,7 @@ In this project, the snake moves around the screen and eats food to grow longer.
 * Working with graphics libraries like turtle/pygame
 * Improving code structure with multiple classes
 
+<!--================================================================================================-->
 
 ## Day 17 - The Pong Game Project ##
 
@@ -459,6 +505,8 @@ The game uses real-time input, continuous loops, and collision detection to crea
 * Structuring code using OOP concepts
 * Creating smooth game flow using loops
 
+<!--================================================================================================-->
+
 ## Day 18 - US Stated Name Game ##
 
 An interactive Python game built using Turtle Graphics and Pandas. The game reads U.S. state data from a CSV file and allows users to guess state names. Correct guesses are displayed on the map using coordinates.
@@ -487,6 +535,7 @@ An interactive Python game built using Turtle Graphics and Pandas. The game read
 * Turtle graphics basics
 * Game logic building
 
+<!--================================================================================================-->
 
 ## Day 19 - NATO Alphabet Project ##
 
@@ -500,15 +549,15 @@ An interactive Python game built using Turtle Graphics and Pandas. The game read
 * Data filtering and validation logic
 * Converting text into phonetic representations
 
+<!--================================================================================================-->
 
-
-<!--=================-->
 ### Goal
 
 * Improve my Python skills
 * Practice problem solving
 * Build projects step by step
 
+<!--================================================================================================-->
 
 ### What’s next?
 
