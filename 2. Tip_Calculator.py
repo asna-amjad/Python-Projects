@@ -1,4 +1,4 @@
-## Projext 2 - Tip Calculator
+## Project 2 - Tip Calculator
 
 print("Welcome to the tip calculator!")
 
